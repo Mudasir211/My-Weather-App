@@ -13164,9 +13164,9 @@ const Dv = "https://api.openweathermap.org/",
   });
 Td({ reducer: { Slice: ps.reducer } });
 const Lv = ps.actions,
-  Gd = "Sunny-icon-DINQwfqi.png",
-  Jd = "cloud-CpkZEfWe.png",
-  Zd = "rain-BhJMHx-a.png";
+  Gd = "/Sunny-icon-DINQwfqi.png",
+  Jd = "/cloud-CpkZEfWe.png",
+  Zd = "/rain-BhJMHx-a.png";
 function Av() {
   const [e, t] = D.useState(!0),
     n = ds(),
