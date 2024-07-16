@@ -13164,9 +13164,9 @@ const Dv = "https://api.openweathermap.org/",
   });
 Td({ reducer: { Slice: ps.reducer } });
 const Lv = ps.actions,
-  Gd = "/Sunny-icon-DINQwfqi.png",
-  Jd = "/cloud-CpkZEfWe.png",
-  Zd = "/rain-BhJMHx-a.png";
+  Gd = "assets/Sunny-icon-DINQwfqi.png",
+  Jd = "assets/cloud-CpkZEfWe.png",
+  Zd = "assets/rain-BhJMHx-a.png";
 function Av() {
   const [e, t] = D.useState(!0),
     n = ds(),
@@ -13300,7 +13300,7 @@ function Av() {
     })
   );
 }
-const Fv = "/assets/loading-k2BXN81V.gif";
+const Fv = "assets/loading-k2BXN81V.gif";
 function $v() {
   var o, l;
   ds();
